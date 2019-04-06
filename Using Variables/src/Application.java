@@ -20,9 +20,7 @@ System.out.println(mychar);
 System.out.println(myboolean);
 System.out.println(mybyte);
 System.out.println(MyName);
-System.out.println("Test 1");
-System.out.println("Test 2");
-System.out.println("Test 3");
+
 	}
 
 }
